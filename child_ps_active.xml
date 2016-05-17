@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>3.0</version>
-    <date>2016-05-16T10:26:34Z</date>
+    <date>2016-05-17T06:42:43Z</date>
     <groups>
         <group>
             <name>Templates</name>
@@ -456,7 +456,7 @@
                 <graph_item>
                     <sortorder>0</sortorder>
                     <drawtype>0</drawtype>
-                    <color>F230E0</color>
+                    <color>AAAA00</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -467,8 +467,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>1</sortorder>
-                    <drawtype>0</drawtype>
-                    <color>666600</color>
+                    <drawtype>4</drawtype>
+                    <color>AAAA00</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -480,7 +480,7 @@
                 <graph_item>
                     <sortorder>2</sortorder>
                     <drawtype>0</drawtype>
-                    <color>BB2A02</color>
+                    <color>AA0000</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -491,8 +491,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>3</sortorder>
-                    <drawtype>0</drawtype>
-                    <color>5A2B57</color>
+                    <drawtype>4</drawtype>
+                    <color>AA0000</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -504,7 +504,7 @@
                 <graph_item>
                     <sortorder>4</sortorder>
                     <drawtype>0</drawtype>
-                    <color>89ABF8</color>
+                    <color>009900</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -515,8 +515,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>5</sortorder>
-                    <drawtype>0</drawtype>
-                    <color>7EC25C</color>
+                    <drawtype>4</drawtype>
+                    <color>009900</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -527,8 +527,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>6</sortorder>
-                    <drawtype>5</drawtype>
-                    <color>000044</color>
+                    <drawtype>0</drawtype>
+                    <color>000000</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
@@ -539,8 +539,8 @@
                 </graph_item>
                 <graph_item>
                     <sortorder>7</sortorder>
-                    <drawtype>5</drawtype>
-                    <color>888888</color>
+                    <drawtype>4</drawtype>
+                    <color>000000</color>
                     <yaxisside>0</yaxisside>
                     <calc_fnc>2</calc_fnc>
                     <type>0</type>
